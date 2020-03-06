@@ -27,8 +27,7 @@ SECRET_KEY = '*+x&ooa1ra7f0@!x9j)i5#3^l85a-+vue8&$($z6nll$1-5l@z'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'localhost',
-    '192.168.43.190',
+    'mohnishprofile.herokuapp.com',
 ]
 
 
