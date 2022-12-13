@@ -27,7 +27,8 @@ DEBUG = False
 
 ALLOWED_HOSTS = [
     '.herokuapp.com',
-    "127.0.0.1"
+    "127.0.0.1",
+    '.pythonanywhere.com'
 ]
 
 
