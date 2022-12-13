@@ -19,5 +19,5 @@ from mohnish import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('myprofile/',views.index)
+    path('/',views.index)
 ]
